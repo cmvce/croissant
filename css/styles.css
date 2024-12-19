@@ -1,18 +1,35 @@
 body {
   text-align: center;
   font-family: "Quicksand", serif;
+  background-color: #f9eae1;
+  margin: 8px;
 }
 
 h1 {
-    margin-top: auto;
+  margin-top: auto;
   font-size: 45px;
-  
 }
 
-p{
-    font-size: 16px;
-    display: flex;
-    
+.photo-html {
+    font-size: 30px;
+}
+p {
+  font-size: 16px;
+  display: block;
+
 }
 
+footer a {
+  margin: 0 10px;
+  color: #453016;
+  margin-top: auto;
+}
 
+a:visited {
+  color: #844a03;
+}
+
+.croissant-img {
+  width: 60%;
+  margin-bottom: 20px;
+}
