@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+  font-family: "Quicksand", serif;
+}
+
+h1 {
+    margin-top: auto;
+  font-size: 45px;
+  
+}
+
+p{
+    font-size: 16px;
+    display: flex;
+    
+}
+
+
